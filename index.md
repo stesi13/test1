@@ -1,6 +1,6 @@
 ---
-layout: home
-header:
+    layout: home
+      header:
   title: Your Favorite Source of Free Bootstrap Themes
   text: >
     Start Bootstrap can help you build better websites using the Bootstrap
